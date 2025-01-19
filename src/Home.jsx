@@ -9,7 +9,7 @@ import "../src/css/embla.css";
 import EmblaCarousel from "./Js/EmblaCarousel";
 import TiltedScroll from "./TiltedScroll";
 import classimg from "./assets/11 class.jpeg";
-import classimg2 from "./assets/12 class.jpeg";
+import classimg2 from "./assets/12 Class.jpeg";
 import cbse from "./assets/CBSE.jpeg";
 import cuet from "./assets/cutetaspirent.jpeg";
 import affordibilty from "./assets/affordibilty.png";
