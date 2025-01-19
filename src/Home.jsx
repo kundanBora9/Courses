@@ -75,7 +75,7 @@ function Home() {
       </section> */}
       {/* Hero Section End */}
       <section className="bg-black text-white p-10">
-        <div className="container mx-auto px-4">
+        <div className="  px-4">
           <div className="grid grid-cols-12 gap-4">
             {/* Left Section */}
             <div className="col-span-12 md:col-span-6">
